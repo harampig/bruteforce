@@ -1,6 +1,6 @@
 # bruteforce
 the simplest bruteforse program, just for fun
-# How to
+# How to LINUX
 1. clone this bruteforce repository:
 ```bash
 git clone https://github.com/harampig/bruteforce.git
@@ -13,7 +13,20 @@ cd bruteforce && g++ bruteforce.cpp -o bruteforce
 ```bash
 ./bruteforce
 ```
+# How to Windows 
+1. clone this bruteforce repository:
+```bash
+git clone https://github.com/harampig/bruteforce.git
+```
+2. join to cloned directory bruteforce and compile program:
+```bash
+cd bruteforce && msbuild
+```
+3. Run program:
+```bash
+./bruteforce.exe
+```
 # For what?
-for fun, and for linux in windows i will not checked yet, writed only in nano, all spaces r skipped (or no)
+for fun, and for linux in windows i will not checked yet, writed only in nano, all spaces r skipped (or no) PS: I will checked program in windows, it's work yet.
 # Credits
 my kali linux and tty3 lol
