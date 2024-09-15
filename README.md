@@ -3,7 +3,7 @@ the simplest bruteforse program, just for fun
 # How to LINUX
 1. clone this bruteforce repository:
 ```bash
-git clone https://github.com/harampig/bruteforce.git
+git clone https://github.com/notapacman/bruteforce.git
 ```
 2. join to cloned directory bruteforce and compile program:
 ```bash
@@ -16,7 +16,7 @@ cd bruteforce && g++ bruteforce.cpp -o bruteforce
 # How to Windows 
 1. clone this bruteforce repository:
 ```bash
-git clone https://github.com/harampig/bruteforce.git
+git clone https://github.com/notapacman/bruteforce.git
 ```
 2. join to cloned directory bruteforce and compile program:
 ```bash
